@@ -12,4 +12,4 @@ Kontribusi :
  *      Octorico Marvin       : -
  *      M. Rifky A. Munir     : -
  *      Joe J Sitinjak        : Desain dan riset konsep aplikasi, membuat dokumentasi
- *      Christian G. Simamora : Membuat interface aplikasi, membuat front-end aplikasi, membuat database aplikasi, membuat back-end aplikasi
+ *      Christian G. Simamora : Membuat interface aplikasi & membuat database aplikasi
