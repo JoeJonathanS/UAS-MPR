@@ -1,5 +1,5 @@
 # UAS-MPR
-**Projek UAS Kelompok Tipsy**
+**Projek UAS Kelompok Typsi**
 
 Program ini dibuat menggunakan bahasa java dan beberapa library dan sedikit tambahan program.
 Anggota : 
